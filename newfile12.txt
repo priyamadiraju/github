@@ -1,3 +1,5 @@
+fun people
+vijay
 vishnu
 priya
 hema
